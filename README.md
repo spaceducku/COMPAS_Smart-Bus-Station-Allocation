@@ -5,7 +5,7 @@
 ![image](https://user-images.githubusercontent.com/59859965/161897386-d24b95c1-6f78-4524-a548-bedee9e0656f.png)
 
 
-[[전체코드 확인하기]](https://compas.lh.or.kr/subj/past/code?subjNo=SBJ_2102_002&teamNo=1178)
+[[분석코드 확인하기]](https://compas.lh.or.kr/subj/past/code?subjNo=SBJ_2102_002&teamNo=1178)
 
 
 ## 분석과제
